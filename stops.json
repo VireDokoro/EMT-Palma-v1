@@ -1,0 +1,6537 @@
+[
+  {
+    "id": "400",
+    "name": "Plaça d'Espanya - Estació Intermodal",
+    "lines": [
+      "A1",
+      "3",
+      "4",
+      "7",
+      "20",
+      "23",
+      "25",
+      "33"
+    ]
+  },
+  {
+    "id": "422",
+    "name": "Grans Magatzems - Sindicat",
+    "lines": [
+      "3",
+      "4",
+      "7",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "494",
+    "name": "S'Arenal",
+    "lines": [
+      "15",
+      "23",
+      "25",
+      "31",
+      "32"
+    ]
+  },
+  {
+    "id": "313",
+    "name": "Amèrica - C. Comercial",
+    "lines": [
+      "15",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "546",
+    "name": "Aeroport - Arribades",
+    "lines": [
+      "A1",
+      "A2"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Jaume III",
+    "lines": [
+      "3",
+      "4",
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Plaça Joan Carles I - Catedral",
+    "lines": [
+      "3",
+      "4",
+      "25"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Porto Pi",
+    "lines": [
+      "1",
+      "4",
+      "20"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Passeig Marítim - Auditòrium",
+    "lines": [
+      "1",
+      "4"
+    ]
+  },
+  {
+    "id": "455",
+    "name": "Plaça de Cort - Ajuntament",
+    "lines": [
+      "2"
+    ]
+  },
+  {
+    "id": "1139",
+    "name": "Hospital de Son Espases",
+    "lines": [
+      "20",
+      "29",
+      "33",
+      "34",
+      "39"
+    ]
+  },
+  {
+    "id": "205",
+    "name": "Hospital de Son Llàtzer",
+    "lines": [
+      "14",
+      "28",
+      "32"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Marquès de la Fontsanta",
+    "lines": [
+      "10",
+      "24"
+    ]
+  },
+  {
+    "id": "395",
+    "name": "La Rambla - Via Roma",
+    "lines": [
+      "3",
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "621",
+    "name": "UIB - Edifici Gaspar Melchor",
+    "lines": [
+      "19"
+    ]
+  },
+  {
+    "id": "273",
+    "name": "Palau de Congressos",
+    "lines": [
+      "18",
+      "23",
+      "25",
+      "31"
+    ]
+  },
+  {
+    "id": "483",
+    "name": "Balneari 1 - Platja de Palma",
+    "lines": [
+      "15",
+      "25",
+      "32"
+    ]
+  },
+  {
+    "id": "487",
+    "name": "Balneari 5 - Platja de Palma",
+    "lines": [
+      "15",
+      "25",
+      "32"
+    ]
+  },
+  {
+    "id": "490",
+    "name": "Balneari 15 - Platja de Palma",
+    "lines": [
+      "15",
+      "25",
+      "32"
+    ]
+  },
+  {
+    "id": "1000",
+    "name": "General Riera, 103",
+    "lines": [
+      "20",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1001",
+    "name": "Eusebi Estada, 71",
+    "lines": [
+      "5",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1002",
+    "name": "Camí dels Reis, 56",
+    "lines": [
+      "5",
+      "33"
+    ]
+  },
+  {
+    "id": "1003",
+    "name": "Carrer de Manacor, 92",
+    "lines": [
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1004",
+    "name": "Camí dels Reis, 67",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1005",
+    "name": "General Riera, 119",
+    "lines": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "1006",
+    "name": "Avinguda Alemanya, 67",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1007",
+    "name": "General Riera, 37",
+    "lines": [
+      "4",
+      "20"
+    ]
+  },
+  {
+    "id": "1008",
+    "name": "Carrer de Manacor, 43",
+    "lines": [
+      "3",
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1009",
+    "name": "Carrer de Manacor, 57",
+    "lines": [
+      "1",
+      "7",
+      "15"
+    ]
+  },
+  {
+    "id": "1010",
+    "name": "Carrer d'Aragó, 1",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1011",
+    "name": "Carrer de Manacor, 37",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1012",
+    "name": "Carrer de Manacor, 21",
+    "lines": [
+      "1",
+      "20"
+    ]
+  },
+  {
+    "id": "1013",
+    "name": "Eusebi Estada, 60",
+    "lines": [
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1014",
+    "name": "Carrer de Manacor, 50",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1015",
+    "name": "Carrer de Manacor, 40",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1016",
+    "name": "Avinguda Alemanya, 37",
+    "lines": [
+      "1",
+      "23"
+    ]
+  },
+  {
+    "id": "1017",
+    "name": "Carrer d'Aragó, 22",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1018",
+    "name": "Carrer de Manacor, 148",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1019",
+    "name": "Avinguda Alemanya, 12",
+    "lines": [
+      "1",
+      "4",
+      "7"
+    ]
+  },
+  {
+    "id": "1020",
+    "name": "Carrer d'Aragó, 123",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1021",
+    "name": "Eusebi Estada, 45",
+    "lines": [
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "1022",
+    "name": "Carrer de Manacor, 46",
+    "lines": [
+      "3",
+      "25"
+    ]
+  },
+  {
+    "id": "1023",
+    "name": "Carrer de Manacor, 8",
+    "lines": [
+      "7",
+      "14"
+    ]
+  },
+  {
+    "id": "1024",
+    "name": "Camí dels Reis, 134",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1025",
+    "name": "Carrer d'Aragó, 25",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1026",
+    "name": "Avinguda Alemanya, 72",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1027",
+    "name": "Eusebi Estada, 70",
+    "lines": [
+      "5",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1028",
+    "name": "Eusebi Estada, 31",
+    "lines": [
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1029",
+    "name": "Carrer d'Aragó, 30",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1030",
+    "name": "General Riera, 33",
+    "lines": [
+      "1",
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1031",
+    "name": "General Riera, 59",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1032",
+    "name": "Avinguda Alemanya, 96",
+    "lines": [
+      "1",
+      "15",
+      "33"
+    ]
+  },
+  {
+    "id": "1033",
+    "name": "General Riera, 149",
+    "lines": [
+      "3",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1034",
+    "name": "Eusebi Estada, 135",
+    "lines": [
+      "1",
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1035",
+    "name": "General Riera, 120",
+    "lines": [
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1036",
+    "name": "Avinguda Alemanya, 41",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1037",
+    "name": "General Riera, 20",
+    "lines": [
+      "7",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1038",
+    "name": "General Riera, 20",
+    "lines": [
+      "1",
+      "7",
+      "23"
+    ]
+  },
+  {
+    "id": "1039",
+    "name": "Avinguda Alemanya, 132",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1040",
+    "name": "General Riera, 98",
+    "lines": [
+      "8",
+      "15",
+      "33"
+    ]
+  },
+  {
+    "id": "1041",
+    "name": "Avinguda Alemanya, 48",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1042",
+    "name": "Avinguda Alemanya, 110",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1043",
+    "name": "Carrer de Manacor, 106",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1044",
+    "name": "Carrer d'Aragó, 120",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1045",
+    "name": "Camí dels Reis, 107",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1046",
+    "name": "General Riera, 22",
+    "lines": [
+      "10",
+      "23"
+    ]
+  },
+  {
+    "id": "1047",
+    "name": "Camí dels Reis, 56",
+    "lines": [
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1048",
+    "name": "Camí dels Reis, 128",
+    "lines": [
+      "3",
+      "14",
+      "20"
+    ]
+  },
+  {
+    "id": "1049",
+    "name": "Carrer de Manacor, 57",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1050",
+    "name": "Camí dels Reis, 115",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1051",
+    "name": "Eusebi Estada, 134",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1052",
+    "name": "Carrer de Manacor, 104",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1053",
+    "name": "General Riera, 112",
+    "lines": [
+      "8",
+      "23"
+    ]
+  },
+  {
+    "id": "1054",
+    "name": "General Riera, 100",
+    "lines": [
+      "15",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1055",
+    "name": "Eusebi Estada, 93",
+    "lines": [
+      "5",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1056",
+    "name": "Camí dels Reis, 11",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1057",
+    "name": "Avinguda Alemanya, 13",
+    "lines": [
+      "1",
+      "7"
+    ]
+  },
+  {
+    "id": "1058",
+    "name": "Avinguda Alemanya, 3",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1059",
+    "name": "Carrer d'Aragó, 8",
+    "lines": [
+      "5",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1060",
+    "name": "Avinguda Alemanya, 97",
+    "lines": [
+      "8",
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1061",
+    "name": "Camí dels Reis, 4",
+    "lines": [
+      "4",
+      "23"
+    ]
+  },
+  {
+    "id": "1062",
+    "name": "Camí dels Reis, 50",
+    "lines": [
+      "4",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1063",
+    "name": "General Riera, 4",
+    "lines": [
+      "5",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1064",
+    "name": "Avinguda Alemanya, 142",
+    "lines": [
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1065",
+    "name": "Avinguda Alemanya, 100",
+    "lines": [
+      "5",
+      "14"
+    ]
+  },
+  {
+    "id": "1066",
+    "name": "Avinguda Alemanya, 63",
+    "lines": [
+      "4",
+      "5",
+      "23"
+    ]
+  },
+  {
+    "id": "1067",
+    "name": "Eusebi Estada, 11",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1068",
+    "name": "General Riera, 11",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1069",
+    "name": "Camí dels Reis, 2",
+    "lines": [
+      "14",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1070",
+    "name": "Avinguda Alemanya, 1",
+    "lines": [
+      "8",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "id": "1071",
+    "name": "Eusebi Estada, 12",
+    "lines": [
+      "5",
+      "14"
+    ]
+  },
+  {
+    "id": "1072",
+    "name": "Avinguda Alemanya, 131",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1073",
+    "name": "Avinguda Alemanya, 81",
+    "lines": [
+      "1",
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1074",
+    "name": "Carrer de Manacor, 3",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1075",
+    "name": "Avinguda Alemanya, 18",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1076",
+    "name": "Eusebi Estada, 41",
+    "lines": [
+      "1",
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1077",
+    "name": "Avinguda Alemanya, 48",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1078",
+    "name": "Carrer d'Aragó, 140",
+    "lines": [
+      "1",
+      "14"
+    ]
+  },
+  {
+    "id": "1079",
+    "name": "Carrer d'Aragó, 99",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1080",
+    "name": "Avinguda Alemanya, 105",
+    "lines": [
+      "3",
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1081",
+    "name": "Eusebi Estada, 35",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1082",
+    "name": "Avinguda Alemanya, 7",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1083",
+    "name": "Camí dels Reis, 122",
+    "lines": [
+      "7",
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1084",
+    "name": "Avinguda Alemanya, 61",
+    "lines": [
+      "4",
+      "14"
+    ]
+  },
+  {
+    "id": "1085",
+    "name": "Camí dels Reis, 84",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1086",
+    "name": "General Riera, 143",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1087",
+    "name": "Eusebi Estada, 34",
+    "lines": [
+      "7",
+      "8",
+      "14"
+    ]
+  },
+  {
+    "id": "1088",
+    "name": "Camí dels Reis, 3",
+    "lines": [
+      "4",
+      "5",
+      "8"
+    ]
+  },
+  {
+    "id": "1089",
+    "name": "General Riera, 53",
+    "lines": [
+      "8",
+      "25",
+      "33"
+    ]
+  },
+  {
+    "id": "1090",
+    "name": "Carrer de Manacor, 128",
+    "lines": [
+      "4",
+      "33"
+    ]
+  },
+  {
+    "id": "1091",
+    "name": "Carrer de Manacor, 70",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1092",
+    "name": "Eusebi Estada, 143",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1093",
+    "name": "Carrer de Manacor, 149",
+    "lines": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "1094",
+    "name": "Eusebi Estada, 100",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1095",
+    "name": "General Riera, 87",
+    "lines": [
+      "4",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "1096",
+    "name": "Avinguda Alemanya, 28",
+    "lines": [
+      "3",
+      "25"
+    ]
+  },
+  {
+    "id": "1097",
+    "name": "Camí dels Reis, 61",
+    "lines": [
+      "1",
+      "10"
+    ]
+  },
+  {
+    "id": "1098",
+    "name": "General Riera, 135",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1099",
+    "name": "Avinguda Alemanya, 106",
+    "lines": [
+      "1",
+      "5"
+    ]
+  },
+  {
+    "id": "1100",
+    "name": "Camí dels Reis, 21",
+    "lines": [
+      "1",
+      "25",
+      "33"
+    ]
+  },
+  {
+    "id": "1101",
+    "name": "Carrer de Manacor, 76",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1102",
+    "name": "Carrer de Manacor, 148",
+    "lines": [
+      "7",
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1103",
+    "name": "Carrer d'Aragó, 38",
+    "lines": [
+      "7",
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1104",
+    "name": "General Riera, 73",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1105",
+    "name": "Avinguda Alemanya, 29",
+    "lines": [
+      "5",
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "1106",
+    "name": "Eusebi Estada, 116",
+    "lines": [
+      "5",
+      "33"
+    ]
+  },
+  {
+    "id": "1107",
+    "name": "Eusebi Estada, 71",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1108",
+    "name": "Camí dels Reis, 129",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1109",
+    "name": "Eusebi Estada, 12",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1110",
+    "name": "Carrer d'Aragó, 32",
+    "lines": [
+      "3",
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1111",
+    "name": "Carrer d'Aragó, 58",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1112",
+    "name": "Carrer d'Aragó, 62",
+    "lines": [
+      "3",
+      "7"
+    ]
+  },
+  {
+    "id": "1113",
+    "name": "Carrer d'Aragó, 4",
+    "lines": [
+      "25",
+      "33"
+    ]
+  },
+  {
+    "id": "1114",
+    "name": "Eusebi Estada, 20",
+    "lines": [
+      "8",
+      "25",
+      "33"
+    ]
+  },
+  {
+    "id": "1115",
+    "name": "Carrer d'Aragó, 91",
+    "lines": [
+      "10",
+      "23"
+    ]
+  },
+  {
+    "id": "1116",
+    "name": "Carrer d'Aragó, 100",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1117",
+    "name": "Carrer d'Aragó, 49",
+    "lines": [
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1118",
+    "name": "Avinguda Alemanya, 137",
+    "lines": [
+      "4",
+      "33"
+    ]
+  },
+  {
+    "id": "1119",
+    "name": "Avinguda Alemanya, 28",
+    "lines": [
+      "23",
+      "33"
+    ]
+  },
+  {
+    "id": "1120",
+    "name": "Camí dels Reis, 123",
+    "lines": [
+      "4",
+      "15"
+    ]
+  },
+  {
+    "id": "1121",
+    "name": "Carrer de Manacor, 46",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1122",
+    "name": "Eusebi Estada, 69",
+    "lines": [
+      "1",
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": "1123",
+    "name": "Camí dels Reis, 73",
+    "lines": [
+      "8",
+      "23"
+    ]
+  },
+  {
+    "id": "1124",
+    "name": "Avinguda Alemanya, 104",
+    "lines": [
+      "3",
+      "10"
+    ]
+  },
+  {
+    "id": "1125",
+    "name": "Camí dels Reis, 56",
+    "lines": [
+      "1",
+      "10",
+      "15"
+    ]
+  },
+  {
+    "id": "1126",
+    "name": "Eusebi Estada, 134",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1127",
+    "name": "Avinguda Alemanya, 29",
+    "lines": [
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": "1128",
+    "name": "Carrer de Manacor, 74",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1129",
+    "name": "General Riera, 22",
+    "lines": [
+      "7",
+      "10",
+      "23"
+    ]
+  },
+  {
+    "id": "1130",
+    "name": "Avinguda Alemanya, 103",
+    "lines": [
+      "5",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1131",
+    "name": "General Riera, 55",
+    "lines": [
+      "4",
+      "7"
+    ]
+  },
+  {
+    "id": "1132",
+    "name": "Avinguda Alemanya, 75",
+    "lines": [
+      "3",
+      "15"
+    ]
+  },
+  {
+    "id": "1133",
+    "name": "Eusebi Estada, 111",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1134",
+    "name": "Carrer d'Aragó, 14",
+    "lines": [
+      "5",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1135",
+    "name": "Eusebi Estada, 46",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1136",
+    "name": "Carrer d'Aragó, 4",
+    "lines": [
+      "5",
+      "7",
+      "14"
+    ]
+  },
+  {
+    "id": "1137",
+    "name": "Avinguda Alemanya, 68",
+    "lines": [
+      "7",
+      "8",
+      "14"
+    ]
+  },
+  {
+    "id": "1138",
+    "name": "Eusebi Estada, 110",
+    "lines": [
+      "3",
+      "4",
+      "23"
+    ]
+  },
+  {
+    "id": "1139",
+    "name": "Eusebi Estada, 50",
+    "lines": [
+      "4",
+      "8"
+    ]
+  },
+  {
+    "id": "1140",
+    "name": "Carrer d'Aragó, 18",
+    "lines": [
+      "5",
+      "20"
+    ]
+  },
+  {
+    "id": "1141",
+    "name": "Carrer d'Aragó, 17",
+    "lines": [
+      "4",
+      "8",
+      "14"
+    ]
+  },
+  {
+    "id": "1142",
+    "name": "Carrer de Manacor, 2",
+    "lines": [
+      "1",
+      "4"
+    ]
+  },
+  {
+    "id": "1143",
+    "name": "Carrer d'Aragó, 24",
+    "lines": [
+      "4",
+      "14"
+    ]
+  },
+  {
+    "id": "1144",
+    "name": "General Riera, 61",
+    "lines": [
+      "4",
+      "10"
+    ]
+  },
+  {
+    "id": "1145",
+    "name": "General Riera, 81",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1146",
+    "name": "Eusebi Estada, 38",
+    "lines": [
+      "1",
+      "7",
+      "23"
+    ]
+  },
+  {
+    "id": "1147",
+    "name": "Avinguda Alemanya, 114",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1148",
+    "name": "Avinguda Alemanya, 85",
+    "lines": [
+      "10",
+      "25"
+    ]
+  },
+  {
+    "id": "1149",
+    "name": "Carrer d'Aragó, 102",
+    "lines": [
+      "5",
+      "14",
+      "33"
+    ]
+  },
+  {
+    "id": "1150",
+    "name": "General Riera, 41",
+    "lines": [
+      "3",
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "1151",
+    "name": "Eusebi Estada, 87",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1152",
+    "name": "Avinguda Alemanya, 147",
+    "lines": [
+      "4",
+      "10"
+    ]
+  },
+  {
+    "id": "1153",
+    "name": "Camí dels Reis, 57",
+    "lines": [
+      "23",
+      "33"
+    ]
+  },
+  {
+    "id": "1154",
+    "name": "General Riera, 49",
+    "lines": [
+      "4",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "id": "1155",
+    "name": "Carrer de Manacor, 28",
+    "lines": [
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1156",
+    "name": "Carrer de Manacor, 149",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1157",
+    "name": "Carrer de Manacor, 21",
+    "lines": [
+      "3",
+      "7"
+    ]
+  },
+  {
+    "id": "1158",
+    "name": "General Riera, 72",
+    "lines": [
+      "4",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1159",
+    "name": "General Riera, 149",
+    "lines": [
+      "1",
+      "14"
+    ]
+  },
+  {
+    "id": "1160",
+    "name": "General Riera, 38",
+    "lines": [
+      "3",
+      "7"
+    ]
+  },
+  {
+    "id": "1161",
+    "name": "General Riera, 35",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1162",
+    "name": "Carrer d'Aragó, 116",
+    "lines": [
+      "1",
+      "7",
+      "23"
+    ]
+  },
+  {
+    "id": "1163",
+    "name": "Avinguda Alemanya, 97",
+    "lines": [
+      "1",
+      "25"
+    ]
+  },
+  {
+    "id": "1164",
+    "name": "Carrer de Manacor, 72",
+    "lines": [
+      "10",
+      "25"
+    ]
+  },
+  {
+    "id": "1165",
+    "name": "Carrer d'Aragó, 86",
+    "lines": [
+      "1",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1166",
+    "name": "Eusebi Estada, 28",
+    "lines": [
+      "5",
+      "8",
+      "33"
+    ]
+  },
+  {
+    "id": "1167",
+    "name": "Camí dels Reis, 21",
+    "lines": [
+      "4",
+      "10",
+      "23"
+    ]
+  },
+  {
+    "id": "1168",
+    "name": "Avinguda Alemanya, 10",
+    "lines": [
+      "4",
+      "10",
+      "23"
+    ]
+  },
+  {
+    "id": "1169",
+    "name": "Avinguda Alemanya, 9",
+    "lines": [
+      "7",
+      "25"
+    ]
+  },
+  {
+    "id": "1170",
+    "name": "General Riera, 99",
+    "lines": [
+      "1",
+      "4",
+      "20"
+    ]
+  },
+  {
+    "id": "1171",
+    "name": "Carrer de Manacor, 133",
+    "lines": [
+      "3",
+      "5"
+    ]
+  },
+  {
+    "id": "1172",
+    "name": "Camí dels Reis, 84",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1173",
+    "name": "Avinguda Alemanya, 2",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1174",
+    "name": "Carrer de Manacor, 105",
+    "lines": [
+      "5",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1175",
+    "name": "General Riera, 32",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1176",
+    "name": "General Riera, 57",
+    "lines": [
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1177",
+    "name": "Camí dels Reis, 17",
+    "lines": [
+      "8",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1178",
+    "name": "Camí dels Reis, 68",
+    "lines": [
+      "3",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "1179",
+    "name": "Carrer d'Aragó, 139",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1180",
+    "name": "Camí dels Reis, 56",
+    "lines": [
+      "14",
+      "33"
+    ]
+  },
+  {
+    "id": "1181",
+    "name": "General Riera, 32",
+    "lines": [
+      "1",
+      "3",
+      "25"
+    ]
+  },
+  {
+    "id": "1182",
+    "name": "Carrer d'Aragó, 74",
+    "lines": [
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1183",
+    "name": "General Riera, 65",
+    "lines": [
+      "1",
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1184",
+    "name": "General Riera, 20",
+    "lines": [
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1185",
+    "name": "Camí dels Reis, 58",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1186",
+    "name": "Carrer d'Aragó, 76",
+    "lines": [
+      "5",
+      "25"
+    ]
+  },
+  {
+    "id": "1187",
+    "name": "Carrer de Manacor, 18",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1188",
+    "name": "Eusebi Estada, 16",
+    "lines": [
+      "1",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1189",
+    "name": "Eusebi Estada, 108",
+    "lines": [
+      "8",
+      "20",
+      "23"
+    ]
+  },
+  {
+    "id": "1190",
+    "name": "Carrer de Manacor, 89",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1191",
+    "name": "General Riera, 124",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1192",
+    "name": "Eusebi Estada, 121",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1193",
+    "name": "Avinguda Alemanya, 75",
+    "lines": [
+      "1",
+      "3",
+      "7"
+    ]
+  },
+  {
+    "id": "1194",
+    "name": "Carrer d'Aragó, 32",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1195",
+    "name": "General Riera, 23",
+    "lines": [
+      "1",
+      "8",
+      "25"
+    ]
+  },
+  {
+    "id": "1196",
+    "name": "General Riera, 124",
+    "lines": [
+      "5",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1197",
+    "name": "General Riera, 104",
+    "lines": [
+      "1",
+      "15"
+    ]
+  },
+  {
+    "id": "1198",
+    "name": "Carrer de Manacor, 113",
+    "lines": [
+      "1",
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1199",
+    "name": "Carrer d'Aragó, 50",
+    "lines": [
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1200",
+    "name": "Camí dels Reis, 14",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1201",
+    "name": "Avinguda Alemanya, 37",
+    "lines": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "1202",
+    "name": "Carrer d'Aragó, 99",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1203",
+    "name": "General Riera, 138",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1204",
+    "name": "Avinguda Alemanya, 1",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1205",
+    "name": "Carrer de Manacor, 134",
+    "lines": [
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": "1206",
+    "name": "General Riera, 144",
+    "lines": [
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1207",
+    "name": "General Riera, 12",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1208",
+    "name": "Carrer de Manacor, 112",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1209",
+    "name": "Carrer de Manacor, 20",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1210",
+    "name": "General Riera, 89",
+    "lines": [
+      "5",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "id": "1211",
+    "name": "Camí dels Reis, 11",
+    "lines": [
+      "7",
+      "14"
+    ]
+  },
+  {
+    "id": "1212",
+    "name": "Avinguda Alemanya, 46",
+    "lines": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": "1213",
+    "name": "Carrer de Manacor, 73",
+    "lines": [
+      "7",
+      "25",
+      "33"
+    ]
+  },
+  {
+    "id": "1214",
+    "name": "Camí dels Reis, 64",
+    "lines": [
+      "7",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1215",
+    "name": "Camí dels Reis, 85",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1216",
+    "name": "Camí dels Reis, 49",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1217",
+    "name": "General Riera, 49",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1218",
+    "name": "General Riera, 52",
+    "lines": [
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1219",
+    "name": "Carrer d'Aragó, 44",
+    "lines": [
+      "4",
+      "25"
+    ]
+  },
+  {
+    "id": "1220",
+    "name": "Eusebi Estada, 18",
+    "lines": [
+      "1",
+      "4"
+    ]
+  },
+  {
+    "id": "1221",
+    "name": "Camí dels Reis, 33",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1222",
+    "name": "Eusebi Estada, 132",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1223",
+    "name": "Avinguda Alemanya, 26",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1224",
+    "name": "Avinguda Alemanya, 113",
+    "lines": [
+      "4",
+      "15"
+    ]
+  },
+  {
+    "id": "1225",
+    "name": "Camí dels Reis, 56",
+    "lines": [
+      "1",
+      "15"
+    ]
+  },
+  {
+    "id": "1226",
+    "name": "Camí dels Reis, 70",
+    "lines": [
+      "3",
+      "4",
+      "25"
+    ]
+  },
+  {
+    "id": "1227",
+    "name": "Avinguda Alemanya, 105",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1228",
+    "name": "Eusebi Estada, 118",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1229",
+    "name": "Carrer de Manacor, 55",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1230",
+    "name": "General Riera, 84",
+    "lines": [
+      "10",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1231",
+    "name": "Eusebi Estada, 18",
+    "lines": [
+      "1",
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1232",
+    "name": "Carrer d'Aragó, 49",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1233",
+    "name": "Camí dels Reis, 38",
+    "lines": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "1234",
+    "name": "Avinguda Alemanya, 95",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1235",
+    "name": "Eusebi Estada, 21",
+    "lines": [
+      "5",
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1236",
+    "name": "Carrer d'Aragó, 88",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1237",
+    "name": "Carrer de Manacor, 119",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1238",
+    "name": "Carrer d'Aragó, 138",
+    "lines": [
+      "7",
+      "15"
+    ]
+  },
+  {
+    "id": "1239",
+    "name": "Carrer de Manacor, 126",
+    "lines": [
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1240",
+    "name": "General Riera, 94",
+    "lines": [
+      "3",
+      "25"
+    ]
+  },
+  {
+    "id": "1241",
+    "name": "Eusebi Estada, 136",
+    "lines": [
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1242",
+    "name": "Carrer d'Aragó, 127",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1243",
+    "name": "Eusebi Estada, 134",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1244",
+    "name": "Carrer d'Aragó, 132",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1245",
+    "name": "Eusebi Estada, 58",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1246",
+    "name": "Carrer de Manacor, 92",
+    "lines": [
+      "4",
+      "33"
+    ]
+  },
+  {
+    "id": "1247",
+    "name": "Camí dels Reis, 24",
+    "lines": [
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": "1248",
+    "name": "Camí dels Reis, 50",
+    "lines": [
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1249",
+    "name": "Carrer de Manacor, 11",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1250",
+    "name": "Carrer d'Aragó, 66",
+    "lines": [
+      "4",
+      "5",
+      "15"
+    ]
+  },
+  {
+    "id": "1251",
+    "name": "Camí dels Reis, 91",
+    "lines": [
+      "3",
+      "33"
+    ]
+  },
+  {
+    "id": "1252",
+    "name": "Carrer de Manacor, 83",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1253",
+    "name": "Avinguda Alemanya, 11",
+    "lines": [
+      "4",
+      "5",
+      "33"
+    ]
+  },
+  {
+    "id": "1254",
+    "name": "Carrer de Manacor, 132",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1255",
+    "name": "Eusebi Estada, 136",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1256",
+    "name": "Carrer d'Aragó, 116",
+    "lines": [
+      "3",
+      "33"
+    ]
+  },
+  {
+    "id": "1257",
+    "name": "Eusebi Estada, 37",
+    "lines": [
+      "1",
+      "8",
+      "25"
+    ]
+  },
+  {
+    "id": "1258",
+    "name": "Camí dels Reis, 64",
+    "lines": [
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1259",
+    "name": "Carrer de Manacor, 113",
+    "lines": [
+      "3",
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1260",
+    "name": "General Riera, 32",
+    "lines": [
+      "5",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1261",
+    "name": "Carrer d'Aragó, 34",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1262",
+    "name": "General Riera, 97",
+    "lines": [
+      "1",
+      "4"
+    ]
+  },
+  {
+    "id": "1263",
+    "name": "General Riera, 107",
+    "lines": [
+      "1",
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1264",
+    "name": "Carrer de Manacor, 97",
+    "lines": [
+      "4",
+      "25"
+    ]
+  },
+  {
+    "id": "1265",
+    "name": "Carrer de Manacor, 12",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1266",
+    "name": "Eusebi Estada, 111",
+    "lines": [
+      "3",
+      "33"
+    ]
+  },
+  {
+    "id": "1267",
+    "name": "Carrer d'Aragó, 127",
+    "lines": [
+      "5",
+      "10",
+      "25"
+    ]
+  },
+  {
+    "id": "1268",
+    "name": "Camí dels Reis, 98",
+    "lines": [
+      "4",
+      "25"
+    ]
+  },
+  {
+    "id": "1269",
+    "name": "Carrer d'Aragó, 10",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1270",
+    "name": "Avinguda Alemanya, 42",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1271",
+    "name": "Eusebi Estada, 132",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1272",
+    "name": "Carrer d'Aragó, 126",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1273",
+    "name": "Camí dels Reis, 63",
+    "lines": [
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1274",
+    "name": "Carrer de Manacor, 3",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1275",
+    "name": "General Riera, 96",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1276",
+    "name": "Avinguda Alemanya, 79",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1277",
+    "name": "General Riera, 34",
+    "lines": [
+      "15",
+      "33"
+    ]
+  },
+  {
+    "id": "1278",
+    "name": "Avinguda Alemanya, 139",
+    "lines": [
+      "1",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1279",
+    "name": "Avinguda Alemanya, 27",
+    "lines": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": "1280",
+    "name": "Carrer d'Aragó, 49",
+    "lines": [
+      "5",
+      "23",
+      "33"
+    ]
+  },
+  {
+    "id": "1281",
+    "name": "Avinguda Alemanya, 146",
+    "lines": [
+      "4",
+      "15"
+    ]
+  },
+  {
+    "id": "1282",
+    "name": "Carrer d'Aragó, 109",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1283",
+    "name": "Carrer de Manacor, 76",
+    "lines": [
+      "7",
+      "25"
+    ]
+  },
+  {
+    "id": "1284",
+    "name": "Carrer d'Aragó, 147",
+    "lines": [
+      "5",
+      "7",
+      "14"
+    ]
+  },
+  {
+    "id": "1285",
+    "name": "Avinguda Alemanya, 58",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1286",
+    "name": "Carrer de Manacor, 104",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1287",
+    "name": "Carrer d'Aragó, 47",
+    "lines": [
+      "1",
+      "33"
+    ]
+  },
+  {
+    "id": "1288",
+    "name": "Carrer de Manacor, 112",
+    "lines": [
+      "1",
+      "20"
+    ]
+  },
+  {
+    "id": "1289",
+    "name": "Avinguda Alemanya, 4",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1290",
+    "name": "Avinguda Alemanya, 144",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1291",
+    "name": "Avinguda Alemanya, 149",
+    "lines": [
+      "5",
+      "8"
+    ]
+  },
+  {
+    "id": "1292",
+    "name": "Carrer d'Aragó, 129",
+    "lines": [
+      "3",
+      "5",
+      "33"
+    ]
+  },
+  {
+    "id": "1293",
+    "name": "Carrer de Manacor, 97",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1294",
+    "name": "Eusebi Estada, 73",
+    "lines": [
+      "4",
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1295",
+    "name": "General Riera, 49",
+    "lines": [
+      "7",
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1296",
+    "name": "General Riera, 120",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1297",
+    "name": "General Riera, 61",
+    "lines": [
+      "7",
+      "8",
+      "23"
+    ]
+  },
+  {
+    "id": "1298",
+    "name": "Avinguda Alemanya, 2",
+    "lines": [
+      "8",
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1299",
+    "name": "Carrer de Manacor, 138",
+    "lines": [
+      "3",
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1300",
+    "name": "General Riera, 40",
+    "lines": [
+      "1",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "id": "1301",
+    "name": "Carrer d'Aragó, 55",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1302",
+    "name": "Eusebi Estada, 32",
+    "lines": [
+      "4",
+      "8"
+    ]
+  },
+  {
+    "id": "1303",
+    "name": "Avinguda Alemanya, 16",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1304",
+    "name": "Camí dels Reis, 144",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1305",
+    "name": "General Riera, 52",
+    "lines": [
+      "5",
+      "23"
+    ]
+  },
+  {
+    "id": "1306",
+    "name": "Carrer d'Aragó, 22",
+    "lines": [
+      "3",
+      "10"
+    ]
+  },
+  {
+    "id": "1307",
+    "name": "Camí dels Reis, 25",
+    "lines": [
+      "1",
+      "10",
+      "15"
+    ]
+  },
+  {
+    "id": "1308",
+    "name": "General Riera, 134",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1309",
+    "name": "Carrer de Manacor, 77",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1310",
+    "name": "Avinguda Alemanya, 110",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1311",
+    "name": "Avinguda Alemanya, 125",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1312",
+    "name": "Eusebi Estada, 21",
+    "lines": [
+      "7",
+      "10",
+      "15"
+    ]
+  },
+  {
+    "id": "1313",
+    "name": "Carrer d'Aragó, 34",
+    "lines": [
+      "1",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1314",
+    "name": "Carrer d'Aragó, 67",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1315",
+    "name": "Avinguda Alemanya, 50",
+    "lines": [
+      "4",
+      "20"
+    ]
+  },
+  {
+    "id": "1316",
+    "name": "Eusebi Estada, 14",
+    "lines": [
+      "3",
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1317",
+    "name": "Carrer de Manacor, 105",
+    "lines": [
+      "1",
+      "4"
+    ]
+  },
+  {
+    "id": "1318",
+    "name": "Carrer de Manacor, 35",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1319",
+    "name": "Eusebi Estada, 60",
+    "lines": [
+      "1",
+      "23"
+    ]
+  },
+  {
+    "id": "1320",
+    "name": "Camí dels Reis, 136",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1321",
+    "name": "General Riera, 84",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1322",
+    "name": "Carrer d'Aragó, 121",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1323",
+    "name": "Eusebi Estada, 120",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1324",
+    "name": "Carrer d'Aragó, 43",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1325",
+    "name": "General Riera, 2",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1326",
+    "name": "Eusebi Estada, 126",
+    "lines": [
+      "4",
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1327",
+    "name": "Eusebi Estada, 105",
+    "lines": [
+      "1",
+      "15"
+    ]
+  },
+  {
+    "id": "1328",
+    "name": "General Riera, 101",
+    "lines": [
+      "7",
+      "14",
+      "20"
+    ]
+  },
+  {
+    "id": "1329",
+    "name": "Camí dels Reis, 41",
+    "lines": [
+      "7",
+      "33"
+    ]
+  },
+  {
+    "id": "1330",
+    "name": "Camí dels Reis, 37",
+    "lines": [
+      "7",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1331",
+    "name": "Carrer d'Aragó, 8",
+    "lines": [
+      "3",
+      "8"
+    ]
+  },
+  {
+    "id": "1332",
+    "name": "Carrer d'Aragó, 46",
+    "lines": [
+      "5",
+      "8"
+    ]
+  },
+  {
+    "id": "1333",
+    "name": "Avinguda Alemanya, 9",
+    "lines": [
+      "1",
+      "7",
+      "14"
+    ]
+  },
+  {
+    "id": "1334",
+    "name": "Carrer d'Aragó, 36",
+    "lines": [
+      "10",
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1335",
+    "name": "Carrer de Manacor, 88",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1336",
+    "name": "Eusebi Estada, 14",
+    "lines": [
+      "3",
+      "14"
+    ]
+  },
+  {
+    "id": "1337",
+    "name": "General Riera, 62",
+    "lines": [
+      "5",
+      "15"
+    ]
+  },
+  {
+    "id": "1338",
+    "name": "Camí dels Reis, 111",
+    "lines": [
+      "3",
+      "7",
+      "23"
+    ]
+  },
+  {
+    "id": "1339",
+    "name": "Carrer de Manacor, 130",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1340",
+    "name": "General Riera, 13",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1341",
+    "name": "Carrer de Manacor, 12",
+    "lines": [
+      "5",
+      "14"
+    ]
+  },
+  {
+    "id": "1342",
+    "name": "Carrer de Manacor, 78",
+    "lines": [
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "1343",
+    "name": "Eusebi Estada, 106",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1344",
+    "name": "Eusebi Estada, 79",
+    "lines": [
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1345",
+    "name": "Eusebi Estada, 18",
+    "lines": [
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": "1346",
+    "name": "Eusebi Estada, 101",
+    "lines": [
+      "15",
+      "33"
+    ]
+  },
+  {
+    "id": "1347",
+    "name": "Avinguda Alemanya, 53",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1348",
+    "name": "Carrer d'Aragó, 146",
+    "lines": [
+      "1",
+      "4",
+      "14"
+    ]
+  },
+  {
+    "id": "1349",
+    "name": "Camí dels Reis, 98",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1350",
+    "name": "Camí dels Reis, 129",
+    "lines": [
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": "1351",
+    "name": "Avinguda Alemanya, 27",
+    "lines": [
+      "8",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1352",
+    "name": "Carrer d'Aragó, 82",
+    "lines": [
+      "3",
+      "8"
+    ]
+  },
+  {
+    "id": "1353",
+    "name": "General Riera, 73",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1354",
+    "name": "Camí dels Reis, 122",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1355",
+    "name": "Camí dels Reis, 23",
+    "lines": [
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1356",
+    "name": "General Riera, 114",
+    "lines": [
+      "7",
+      "15"
+    ]
+  },
+  {
+    "id": "1357",
+    "name": "Carrer de Manacor, 106",
+    "lines": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "1358",
+    "name": "Carrer d'Aragó, 121",
+    "lines": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": "1359",
+    "name": "General Riera, 55",
+    "lines": [
+      "1",
+      "25"
+    ]
+  },
+  {
+    "id": "1360",
+    "name": "Camí dels Reis, 100",
+    "lines": [
+      "5",
+      "15"
+    ]
+  },
+  {
+    "id": "1361",
+    "name": "Eusebi Estada, 146",
+    "lines": [
+      "1",
+      "15"
+    ]
+  },
+  {
+    "id": "1362",
+    "name": "Camí dels Reis, 116",
+    "lines": [
+      "1",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1363",
+    "name": "Camí dels Reis, 86",
+    "lines": [
+      "5",
+      "33"
+    ]
+  },
+  {
+    "id": "1364",
+    "name": "Avinguda Alemanya, 70",
+    "lines": [
+      "3",
+      "4",
+      "25"
+    ]
+  },
+  {
+    "id": "1365",
+    "name": "Carrer d'Aragó, 76",
+    "lines": [
+      "3",
+      "15"
+    ]
+  },
+  {
+    "id": "1366",
+    "name": "Eusebi Estada, 18",
+    "lines": [
+      "4",
+      "7"
+    ]
+  },
+  {
+    "id": "1367",
+    "name": "General Riera, 3",
+    "lines": [
+      "1",
+      "15"
+    ]
+  },
+  {
+    "id": "1368",
+    "name": "Carrer de Manacor, 61",
+    "lines": [
+      "4",
+      "7",
+      "23"
+    ]
+  },
+  {
+    "id": "1369",
+    "name": "General Riera, 40",
+    "lines": [
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1370",
+    "name": "Carrer d'Aragó, 4",
+    "lines": [
+      "3",
+      "14"
+    ]
+  },
+  {
+    "id": "1371",
+    "name": "Eusebi Estada, 7",
+    "lines": [
+      "4",
+      "14"
+    ]
+  },
+  {
+    "id": "1372",
+    "name": "Carrer d'Aragó, 99",
+    "lines": [
+      "1",
+      "33"
+    ]
+  },
+  {
+    "id": "1373",
+    "name": "Carrer de Manacor, 89",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1374",
+    "name": "General Riera, 51",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1375",
+    "name": "General Riera, 104",
+    "lines": [
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1376",
+    "name": "Camí dels Reis, 27",
+    "lines": [
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1377",
+    "name": "Carrer de Manacor, 64",
+    "lines": [
+      "3",
+      "33"
+    ]
+  },
+  {
+    "id": "1378",
+    "name": "Carrer de Manacor, 2",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1379",
+    "name": "Eusebi Estada, 31",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1380",
+    "name": "Carrer d'Aragó, 72",
+    "lines": [
+      "14",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "id": "1381",
+    "name": "Carrer de Manacor, 27",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1382",
+    "name": "General Riera, 95",
+    "lines": [
+      "4",
+      "7",
+      "23"
+    ]
+  },
+  {
+    "id": "1383",
+    "name": "Avinguda Alemanya, 17",
+    "lines": [
+      "3",
+      "4",
+      "14"
+    ]
+  },
+  {
+    "id": "1384",
+    "name": "Carrer d'Aragó, 88",
+    "lines": [
+      "3",
+      "10"
+    ]
+  },
+  {
+    "id": "1385",
+    "name": "Carrer d'Aragó, 142",
+    "lines": [
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1386",
+    "name": "Carrer d'Aragó, 39",
+    "lines": [
+      "3",
+      "14"
+    ]
+  },
+  {
+    "id": "1387",
+    "name": "Avinguda Alemanya, 113",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1388",
+    "name": "Avinguda Alemanya, 40",
+    "lines": [
+      "5",
+      "10",
+      "25"
+    ]
+  },
+  {
+    "id": "1389",
+    "name": "General Riera, 10",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1390",
+    "name": "Eusebi Estada, 147",
+    "lines": [
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "1391",
+    "name": "Carrer de Manacor, 137",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1392",
+    "name": "Carrer d'Aragó, 50",
+    "lines": [
+      "1",
+      "25"
+    ]
+  },
+  {
+    "id": "1393",
+    "name": "Eusebi Estada, 70",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1394",
+    "name": "Eusebi Estada, 54",
+    "lines": [
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1395",
+    "name": "Avinguda Alemanya, 95",
+    "lines": [
+      "8",
+      "10"
+    ]
+  },
+  {
+    "id": "1396",
+    "name": "Carrer de Manacor, 61",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1397",
+    "name": "Carrer de Manacor, 6",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1398",
+    "name": "Carrer de Manacor, 105",
+    "lines": [
+      "23",
+      "33"
+    ]
+  },
+  {
+    "id": "1399",
+    "name": "General Riera, 81",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1400",
+    "name": "Eusebi Estada, 57",
+    "lines": [
+      "3",
+      "4",
+      "25"
+    ]
+  },
+  {
+    "id": "1401",
+    "name": "Avinguda Alemanya, 2",
+    "lines": [
+      "5",
+      "10",
+      "15"
+    ]
+  },
+  {
+    "id": "1402",
+    "name": "Avinguda Alemanya, 126",
+    "lines": [
+      "23",
+      "33"
+    ]
+  },
+  {
+    "id": "1403",
+    "name": "General Riera, 74",
+    "lines": [
+      "8",
+      "23"
+    ]
+  },
+  {
+    "id": "1404",
+    "name": "Camí dels Reis, 146",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1405",
+    "name": "Camí dels Reis, 87",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1406",
+    "name": "General Riera, 106",
+    "lines": [
+      "8",
+      "33"
+    ]
+  },
+  {
+    "id": "1407",
+    "name": "Eusebi Estada, 64",
+    "lines": [
+      "10",
+      "14",
+      "23"
+    ]
+  },
+  {
+    "id": "1408",
+    "name": "Camí dels Reis, 22",
+    "lines": [
+      "7",
+      "8",
+      "23"
+    ]
+  },
+  {
+    "id": "1409",
+    "name": "Avinguda Alemanya, 46",
+    "lines": [
+      "3",
+      "5",
+      "20"
+    ]
+  },
+  {
+    "id": "1410",
+    "name": "Carrer d'Aragó, 60",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1411",
+    "name": "Carrer d'Aragó, 6",
+    "lines": [
+      "5",
+      "20",
+      "23"
+    ]
+  },
+  {
+    "id": "1412",
+    "name": "General Riera, 82",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1413",
+    "name": "Camí dels Reis, 36",
+    "lines": [
+      "1",
+      "15",
+      "33"
+    ]
+  },
+  {
+    "id": "1414",
+    "name": "General Riera, 125",
+    "lines": [
+      "3",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1415",
+    "name": "Carrer d'Aragó, 39",
+    "lines": [
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1416",
+    "name": "Carrer de Manacor, 71",
+    "lines": [
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1417",
+    "name": "Carrer d'Aragó, 51",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1418",
+    "name": "Carrer d'Aragó, 96",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1419",
+    "name": "Eusebi Estada, 41",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1420",
+    "name": "Carrer d'Aragó, 139",
+    "lines": [
+      "4",
+      "14"
+    ]
+  },
+  {
+    "id": "1421",
+    "name": "Carrer de Manacor, 138",
+    "lines": [
+      "4",
+      "33"
+    ]
+  },
+  {
+    "id": "1422",
+    "name": "Eusebi Estada, 43",
+    "lines": [
+      "7",
+      "25"
+    ]
+  },
+  {
+    "id": "1423",
+    "name": "Carrer d'Aragó, 90",
+    "lines": [
+      "1",
+      "14",
+      "23"
+    ]
+  },
+  {
+    "id": "1424",
+    "name": "Avinguda Alemanya, 68",
+    "lines": [
+      "4",
+      "33"
+    ]
+  },
+  {
+    "id": "1425",
+    "name": "General Riera, 38",
+    "lines": [
+      "1",
+      "10",
+      "25"
+    ]
+  },
+  {
+    "id": "1426",
+    "name": "Carrer d'Aragó, 55",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1427",
+    "name": "Carrer de Manacor, 133",
+    "lines": [
+      "3",
+      "23"
+    ]
+  },
+  {
+    "id": "1428",
+    "name": "Carrer de Manacor, 128",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1429",
+    "name": "Camí dels Reis, 146",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1430",
+    "name": "Avinguda Alemanya, 30",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1431",
+    "name": "Carrer de Manacor, 128",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1432",
+    "name": "Avinguda Alemanya, 96",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1433",
+    "name": "Carrer de Manacor, 28",
+    "lines": [
+      "4",
+      "20"
+    ]
+  },
+  {
+    "id": "1434",
+    "name": "Camí dels Reis, 118",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1435",
+    "name": "Eusebi Estada, 107",
+    "lines": [
+      "4",
+      "23"
+    ]
+  },
+  {
+    "id": "1436",
+    "name": "Camí dels Reis, 53",
+    "lines": [
+      "4",
+      "8",
+      "33"
+    ]
+  },
+  {
+    "id": "1437",
+    "name": "Camí dels Reis, 17",
+    "lines": [
+      "15",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1438",
+    "name": "Eusebi Estada, 45",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1439",
+    "name": "Eusebi Estada, 69",
+    "lines": [
+      "7",
+      "25"
+    ]
+  },
+  {
+    "id": "1440",
+    "name": "Carrer de Manacor, 46",
+    "lines": [
+      "8",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1441",
+    "name": "Carrer d'Aragó, 32",
+    "lines": [
+      "3",
+      "4",
+      "7"
+    ]
+  },
+  {
+    "id": "1442",
+    "name": "General Riera, 24",
+    "lines": [
+      "8",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1443",
+    "name": "Camí dels Reis, 13",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1444",
+    "name": "Camí dels Reis, 1",
+    "lines": [
+      "1",
+      "5"
+    ]
+  },
+  {
+    "id": "1445",
+    "name": "Avinguda Alemanya, 117",
+    "lines": [
+      "3",
+      "8",
+      "14"
+    ]
+  },
+  {
+    "id": "1446",
+    "name": "Avinguda Alemanya, 58",
+    "lines": [
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "1447",
+    "name": "Carrer de Manacor, 76",
+    "lines": [
+      "3",
+      "5"
+    ]
+  },
+  {
+    "id": "1448",
+    "name": "Camí dels Reis, 144",
+    "lines": [
+      "8",
+      "25"
+    ]
+  },
+  {
+    "id": "1449",
+    "name": "Camí dels Reis, 147",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1450",
+    "name": "Avinguda Alemanya, 34",
+    "lines": [
+      "3",
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1451",
+    "name": "Camí dels Reis, 84",
+    "lines": [
+      "3",
+      "10",
+      "23"
+    ]
+  },
+  {
+    "id": "1452",
+    "name": "Avinguda Alemanya, 55",
+    "lines": [
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1453",
+    "name": "Camí dels Reis, 27",
+    "lines": [
+      "14",
+      "33"
+    ]
+  },
+  {
+    "id": "1454",
+    "name": "Carrer de Manacor, 8",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1455",
+    "name": "Avinguda Alemanya, 32",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1456",
+    "name": "Carrer de Manacor, 116",
+    "lines": [
+      "5",
+      "14"
+    ]
+  },
+  {
+    "id": "1457",
+    "name": "Carrer d'Aragó, 83",
+    "lines": [
+      "1",
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1458",
+    "name": "Carrer de Manacor, 138",
+    "lines": [
+      "3",
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1459",
+    "name": "Eusebi Estada, 5",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1460",
+    "name": "Avinguda Alemanya, 39",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1461",
+    "name": "Carrer de Manacor, 147",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1462",
+    "name": "Carrer de Manacor, 138",
+    "lines": [
+      "7",
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1463",
+    "name": "Carrer d'Aragó, 79",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1464",
+    "name": "Eusebi Estada, 99",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1465",
+    "name": "Eusebi Estada, 97",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1466",
+    "name": "Carrer d'Aragó, 135",
+    "lines": [
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1467",
+    "name": "Avinguda Alemanya, 69",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1468",
+    "name": "Camí dels Reis, 28",
+    "lines": [
+      "1",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1469",
+    "name": "Carrer de Manacor, 13",
+    "lines": [
+      "5",
+      "10",
+      "25"
+    ]
+  },
+  {
+    "id": "1470",
+    "name": "Avinguda Alemanya, 90",
+    "lines": [
+      "4",
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1471",
+    "name": "Carrer d'Aragó, 131",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1472",
+    "name": "General Riera, 137",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1473",
+    "name": "Carrer de Manacor, 86",
+    "lines": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": "1474",
+    "name": "Carrer de Manacor, 28",
+    "lines": [
+      "1",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1475",
+    "name": "Camí dels Reis, 125",
+    "lines": [
+      "10",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "id": "1476",
+    "name": "Carrer de Manacor, 150",
+    "lines": [
+      "3",
+      "20"
+    ]
+  },
+  {
+    "id": "1477",
+    "name": "General Riera, 147",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1478",
+    "name": "Carrer d'Aragó, 55",
+    "lines": [
+      "5",
+      "20"
+    ]
+  },
+  {
+    "id": "1479",
+    "name": "Eusebi Estada, 58",
+    "lines": [
+      "14",
+      "23"
+    ]
+  },
+  {
+    "id": "1480",
+    "name": "Camí dels Reis, 43",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1481",
+    "name": "Camí dels Reis, 134",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1482",
+    "name": "Carrer de Manacor, 110",
+    "lines": [
+      "3",
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1483",
+    "name": "Eusebi Estada, 114",
+    "lines": [
+      "7",
+      "8",
+      "14"
+    ]
+  },
+  {
+    "id": "1484",
+    "name": "Carrer d'Aragó, 62",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1485",
+    "name": "General Riera, 79",
+    "lines": [
+      "3",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1486",
+    "name": "Camí dels Reis, 137",
+    "lines": [
+      "5",
+      "25",
+      "33"
+    ]
+  },
+  {
+    "id": "1487",
+    "name": "Carrer de Manacor, 125",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1488",
+    "name": "Carrer d'Aragó, 2",
+    "lines": [
+      "1",
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1489",
+    "name": "Camí dels Reis, 48",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1490",
+    "name": "Eusebi Estada, 73",
+    "lines": [
+      "7",
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1491",
+    "name": "Eusebi Estada, 68",
+    "lines": [
+      "7",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1492",
+    "name": "Camí dels Reis, 56",
+    "lines": [
+      "3",
+      "14"
+    ]
+  },
+  {
+    "id": "1493",
+    "name": "Camí dels Reis, 95",
+    "lines": [
+      "3",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1494",
+    "name": "Carrer de Manacor, 12",
+    "lines": [
+      "4",
+      "7"
+    ]
+  },
+  {
+    "id": "1495",
+    "name": "Carrer de Manacor, 144",
+    "lines": [
+      "5",
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1496",
+    "name": "Avinguda Alemanya, 25",
+    "lines": [
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1497",
+    "name": "Eusebi Estada, 7",
+    "lines": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "1498",
+    "name": "Camí dels Reis, 123",
+    "lines": [
+      "7",
+      "10",
+      "25"
+    ]
+  },
+  {
+    "id": "1499",
+    "name": "Carrer de Manacor, 33",
+    "lines": [
+      "10",
+      "15"
+    ]
+  },
+  {
+    "id": "1500",
+    "name": "Camí dels Reis, 106",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1501",
+    "name": "Carrer de Manacor, 101",
+    "lines": [
+      "10",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1502",
+    "name": "Camí dels Reis, 49",
+    "lines": [
+      "4",
+      "33"
+    ]
+  },
+  {
+    "id": "1503",
+    "name": "Carrer de Manacor, 56",
+    "lines": [
+      "1",
+      "7"
+    ]
+  },
+  {
+    "id": "1504",
+    "name": "Carrer d'Aragó, 15",
+    "lines": [
+      "10",
+      "15"
+    ]
+  },
+  {
+    "id": "1505",
+    "name": "Eusebi Estada, 22",
+    "lines": [
+      "1",
+      "23"
+    ]
+  },
+  {
+    "id": "1506",
+    "name": "Avinguda Alemanya, 134",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1507",
+    "name": "Avinguda Alemanya, 1",
+    "lines": [
+      "14",
+      "20"
+    ]
+  },
+  {
+    "id": "1508",
+    "name": "Carrer d'Aragó, 139",
+    "lines": [
+      "3",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1509",
+    "name": "Carrer d'Aragó, 147",
+    "lines": [
+      "3",
+      "8",
+      "20"
+    ]
+  },
+  {
+    "id": "1510",
+    "name": "Carrer d'Aragó, 32",
+    "lines": [
+      "1",
+      "14"
+    ]
+  },
+  {
+    "id": "1511",
+    "name": "Carrer d'Aragó, 17",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1512",
+    "name": "Carrer de Manacor, 56",
+    "lines": [
+      "8",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1513",
+    "name": "Camí dels Reis, 139",
+    "lines": [
+      "8",
+      "25"
+    ]
+  },
+  {
+    "id": "1514",
+    "name": "General Riera, 92",
+    "lines": [
+      "1",
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1515",
+    "name": "General Riera, 125",
+    "lines": [
+      "5",
+      "33"
+    ]
+  },
+  {
+    "id": "1516",
+    "name": "General Riera, 115",
+    "lines": [
+      "1",
+      "5",
+      "33"
+    ]
+  },
+  {
+    "id": "1517",
+    "name": "Avinguda Alemanya, 4",
+    "lines": [
+      "1",
+      "23"
+    ]
+  },
+  {
+    "id": "1518",
+    "name": "General Riera, 75",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1519",
+    "name": "Camí dels Reis, 79",
+    "lines": [
+      "20",
+      "23"
+    ]
+  },
+  {
+    "id": "1520",
+    "name": "Avinguda Alemanya, 71",
+    "lines": [
+      "5",
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": "1521",
+    "name": "Carrer de Manacor, 138",
+    "lines": [
+      "20",
+      "25"
+    ]
+  },
+  {
+    "id": "1522",
+    "name": "Camí dels Reis, 27",
+    "lines": [
+      "1",
+      "33"
+    ]
+  },
+  {
+    "id": "1523",
+    "name": "General Riera, 12",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1524",
+    "name": "Eusebi Estada, 147",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1525",
+    "name": "Camí dels Reis, 146",
+    "lines": [
+      "3",
+      "23",
+      "33"
+    ]
+  },
+  {
+    "id": "1526",
+    "name": "General Riera, 44",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1527",
+    "name": "Camí dels Reis, 92",
+    "lines": [
+      "15",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1528",
+    "name": "General Riera, 35",
+    "lines": [
+      "1",
+      "10"
+    ]
+  },
+  {
+    "id": "1529",
+    "name": "Carrer d'Aragó, 36",
+    "lines": [
+      "14",
+      "20"
+    ]
+  },
+  {
+    "id": "1530",
+    "name": "Carrer d'Aragó, 119",
+    "lines": [
+      "8",
+      "25"
+    ]
+  },
+  {
+    "id": "1531",
+    "name": "Eusebi Estada, 27",
+    "lines": [
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1532",
+    "name": "Carrer de Manacor, 130",
+    "lines": [
+      "25",
+      "33"
+    ]
+  },
+  {
+    "id": "1533",
+    "name": "Camí dels Reis, 80",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1534",
+    "name": "Eusebi Estada, 108",
+    "lines": [
+      "8",
+      "14"
+    ]
+  },
+  {
+    "id": "1535",
+    "name": "General Riera, 27",
+    "lines": [
+      "1",
+      "23"
+    ]
+  },
+  {
+    "id": "1536",
+    "name": "General Riera, 38",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1537",
+    "name": "Avinguda Alemanya, 11",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1538",
+    "name": "Carrer d'Aragó, 47",
+    "lines": [
+      "1",
+      "5",
+      "23"
+    ]
+  },
+  {
+    "id": "1539",
+    "name": "Eusebi Estada, 47",
+    "lines": [
+      "8",
+      "15",
+      "33"
+    ]
+  },
+  {
+    "id": "1540",
+    "name": "Carrer d'Aragó, 149",
+    "lines": [
+      "4",
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1541",
+    "name": "Carrer d'Aragó, 99",
+    "lines": [
+      "10",
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1542",
+    "name": "Avinguda Alemanya, 26",
+    "lines": [
+      "3",
+      "33"
+    ]
+  },
+  {
+    "id": "1543",
+    "name": "Carrer d'Aragó, 25",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1544",
+    "name": "Eusebi Estada, 19",
+    "lines": [
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1545",
+    "name": "Avinguda Alemanya, 135",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1546",
+    "name": "Camí dels Reis, 143",
+    "lines": [
+      "7",
+      "23",
+      "33"
+    ]
+  },
+  {
+    "id": "1547",
+    "name": "General Riera, 65",
+    "lines": [
+      "4",
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": "1548",
+    "name": "Avinguda Alemanya, 67",
+    "lines": [
+      "8",
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1549",
+    "name": "Camí dels Reis, 44",
+    "lines": [
+      "7",
+      "14",
+      "23"
+    ]
+  },
+  {
+    "id": "1550",
+    "name": "General Riera, 142",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1551",
+    "name": "Carrer de Manacor, 95",
+    "lines": [
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1552",
+    "name": "General Riera, 29",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1553",
+    "name": "General Riera, 97",
+    "lines": [
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1554",
+    "name": "Avinguda Alemanya, 40",
+    "lines": [
+      "3",
+      "10"
+    ]
+  },
+  {
+    "id": "1555",
+    "name": "Camí dels Reis, 20",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1556",
+    "name": "Carrer d'Aragó, 79",
+    "lines": [
+      "1",
+      "14",
+      "20"
+    ]
+  },
+  {
+    "id": "1557",
+    "name": "Eusebi Estada, 103",
+    "lines": [
+      "4",
+      "8",
+      "14"
+    ]
+  },
+  {
+    "id": "1558",
+    "name": "Eusebi Estada, 140",
+    "lines": [
+      "5",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1559",
+    "name": "Avinguda Alemanya, 108",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1560",
+    "name": "Avinguda Alemanya, 124",
+    "lines": [
+      "5",
+      "14"
+    ]
+  },
+  {
+    "id": "1561",
+    "name": "Eusebi Estada, 138",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1562",
+    "name": "Camí dels Reis, 18",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1563",
+    "name": "Camí dels Reis, 28",
+    "lines": [
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1564",
+    "name": "Carrer d'Aragó, 41",
+    "lines": [
+      "5",
+      "10",
+      "15"
+    ]
+  },
+  {
+    "id": "1565",
+    "name": "Avinguda Alemanya, 117",
+    "lines": [
+      "15",
+      "33"
+    ]
+  },
+  {
+    "id": "1566",
+    "name": "Camí dels Reis, 101",
+    "lines": [
+      "5",
+      "14",
+      "33"
+    ]
+  },
+  {
+    "id": "1567",
+    "name": "Camí dels Reis, 144",
+    "lines": [
+      "1",
+      "8",
+      "14"
+    ]
+  },
+  {
+    "id": "1568",
+    "name": "Carrer d'Aragó, 16",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1569",
+    "name": "General Riera, 118",
+    "lines": [
+      "4",
+      "20"
+    ]
+  },
+  {
+    "id": "1570",
+    "name": "Camí dels Reis, 141",
+    "lines": [
+      "5",
+      "25"
+    ]
+  },
+  {
+    "id": "1571",
+    "name": "Carrer de Manacor, 82",
+    "lines": [
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1572",
+    "name": "Camí dels Reis, 24",
+    "lines": [
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": "1573",
+    "name": "Avinguda Alemanya, 150",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1574",
+    "name": "Camí dels Reis, 78",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1575",
+    "name": "Carrer de Manacor, 104",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1576",
+    "name": "Eusebi Estada, 76",
+    "lines": [
+      "1",
+      "3",
+      "5"
+    ]
+  },
+  {
+    "id": "1577",
+    "name": "Camí dels Reis, 30",
+    "lines": [
+      "3",
+      "14"
+    ]
+  },
+  {
+    "id": "1578",
+    "name": "Eusebi Estada, 14",
+    "lines": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "1579",
+    "name": "General Riera, 125",
+    "lines": [
+      "3",
+      "4",
+      "20"
+    ]
+  },
+  {
+    "id": "1580",
+    "name": "General Riera, 118",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1581",
+    "name": "Avinguda Alemanya, 74",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1582",
+    "name": "Eusebi Estada, 10",
+    "lines": [
+      "3",
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1583",
+    "name": "Camí dels Reis, 98",
+    "lines": [
+      "1",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1584",
+    "name": "Carrer de Manacor, 89",
+    "lines": [
+      "1",
+      "33"
+    ]
+  },
+  {
+    "id": "1585",
+    "name": "Carrer de Manacor, 126",
+    "lines": [
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1586",
+    "name": "General Riera, 23",
+    "lines": [
+      "3",
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1587",
+    "name": "Camí dels Reis, 112",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1588",
+    "name": "General Riera, 104",
+    "lines": [
+      "4",
+      "7",
+      "15"
+    ]
+  },
+  {
+    "id": "1589",
+    "name": "Avinguda Alemanya, 70",
+    "lines": [
+      "4",
+      "8",
+      "23"
+    ]
+  },
+  {
+    "id": "1590",
+    "name": "Eusebi Estada, 68",
+    "lines": [
+      "7",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1591",
+    "name": "Avinguda Alemanya, 87",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1592",
+    "name": "Carrer d'Aragó, 13",
+    "lines": [
+      "3",
+      "25"
+    ]
+  },
+  {
+    "id": "1593",
+    "name": "Avinguda Alemanya, 91",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1594",
+    "name": "General Riera, 102",
+    "lines": [
+      "1",
+      "23"
+    ]
+  },
+  {
+    "id": "1595",
+    "name": "Camí dels Reis, 140",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1596",
+    "name": "Carrer d'Aragó, 75",
+    "lines": [
+      "20",
+      "25"
+    ]
+  },
+  {
+    "id": "1597",
+    "name": "Carrer d'Aragó, 34",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1598",
+    "name": "Eusebi Estada, 49",
+    "lines": [
+      "8",
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1599",
+    "name": "Camí dels Reis, 36",
+    "lines": [
+      "1",
+      "14",
+      "33"
+    ]
+  },
+  {
+    "id": "1600",
+    "name": "Carrer de Manacor, 48",
+    "lines": [
+      "4",
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "1601",
+    "name": "General Riera, 26",
+    "lines": [
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1602",
+    "name": "Camí dels Reis, 149",
+    "lines": [
+      "3",
+      "4",
+      "25"
+    ]
+  },
+  {
+    "id": "1603",
+    "name": "General Riera, 73",
+    "lines": [
+      "1",
+      "7",
+      "15"
+    ]
+  },
+  {
+    "id": "1604",
+    "name": "General Riera, 72",
+    "lines": [
+      "1",
+      "7",
+      "25"
+    ]
+  },
+  {
+    "id": "1605",
+    "name": "Camí dels Reis, 140",
+    "lines": [
+      "8",
+      "10",
+      "25"
+    ]
+  },
+  {
+    "id": "1606",
+    "name": "Carrer de Manacor, 37",
+    "lines": [
+      "3",
+      "20"
+    ]
+  },
+  {
+    "id": "1607",
+    "name": "Avinguda Alemanya, 127",
+    "lines": [
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1608",
+    "name": "Eusebi Estada, 11",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1609",
+    "name": "Avinguda Alemanya, 81",
+    "lines": [
+      "3",
+      "4",
+      "7"
+    ]
+  },
+  {
+    "id": "1610",
+    "name": "Carrer d'Aragó, 60",
+    "lines": [
+      "3",
+      "5",
+      "8"
+    ]
+  },
+  {
+    "id": "1611",
+    "name": "General Riera, 109",
+    "lines": [
+      "1",
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1612",
+    "name": "Carrer de Manacor, 42",
+    "lines": [
+      "1",
+      "8"
+    ]
+  },
+  {
+    "id": "1613",
+    "name": "Carrer d'Aragó, 131",
+    "lines": [
+      "7",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "id": "1614",
+    "name": "Carrer de Manacor, 52",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1615",
+    "name": "General Riera, 34",
+    "lines": [
+      "7",
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1616",
+    "name": "Camí dels Reis, 110",
+    "lines": [
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1617",
+    "name": "Camí dels Reis, 19",
+    "lines": [
+      "1",
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1618",
+    "name": "Carrer d'Aragó, 62",
+    "lines": [
+      "1",
+      "23"
+    ]
+  },
+  {
+    "id": "1619",
+    "name": "Carrer de Manacor, 146",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1620",
+    "name": "Carrer de Manacor, 52",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1621",
+    "name": "Eusebi Estada, 19",
+    "lines": [
+      "10",
+      "33"
+    ]
+  },
+  {
+    "id": "1622",
+    "name": "General Riera, 123",
+    "lines": [
+      "3",
+      "7",
+      "20"
+    ]
+  },
+  {
+    "id": "1623",
+    "name": "Carrer d'Aragó, 80",
+    "lines": [
+      "3",
+      "10"
+    ]
+  },
+  {
+    "id": "1624",
+    "name": "Camí dels Reis, 71",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1625",
+    "name": "Carrer de Manacor, 108",
+    "lines": [
+      "1",
+      "20"
+    ]
+  },
+  {
+    "id": "1626",
+    "name": "General Riera, 71",
+    "lines": [
+      "14",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1627",
+    "name": "General Riera, 76",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1628",
+    "name": "General Riera, 146",
+    "lines": [
+      "4",
+      "5",
+      "23"
+    ]
+  },
+  {
+    "id": "1629",
+    "name": "General Riera, 27",
+    "lines": [
+      "4",
+      "14"
+    ]
+  },
+  {
+    "id": "1630",
+    "name": "Eusebi Estada, 42",
+    "lines": [
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1631",
+    "name": "General Riera, 45",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1632",
+    "name": "Carrer d'Aragó, 84",
+    "lines": [
+      "5",
+      "8"
+    ]
+  },
+  {
+    "id": "1633",
+    "name": "Carrer d'Aragó, 32",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1634",
+    "name": "Camí dels Reis, 98",
+    "lines": [
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1635",
+    "name": "Carrer de Manacor, 98",
+    "lines": [
+      "4",
+      "7"
+    ]
+  },
+  {
+    "id": "1636",
+    "name": "General Riera, 60",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1637",
+    "name": "General Riera, 52",
+    "lines": [
+      "3",
+      "4",
+      "20"
+    ]
+  },
+  {
+    "id": "1638",
+    "name": "Eusebi Estada, 104",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1639",
+    "name": "Avinguda Alemanya, 71",
+    "lines": [
+      "3",
+      "14"
+    ]
+  },
+  {
+    "id": "1640",
+    "name": "Eusebi Estada, 96",
+    "lines": [
+      "7",
+      "15",
+      "20"
+    ]
+  },
+  {
+    "id": "1641",
+    "name": "Camí dels Reis, 122",
+    "lines": [
+      "3",
+      "33"
+    ]
+  },
+  {
+    "id": "1642",
+    "name": "Avinguda Alemanya, 61",
+    "lines": [
+      "1",
+      "25"
+    ]
+  },
+  {
+    "id": "1643",
+    "name": "Carrer de Manacor, 26",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1644",
+    "name": "Carrer de Manacor, 21",
+    "lines": [
+      "3",
+      "23",
+      "33"
+    ]
+  },
+  {
+    "id": "1645",
+    "name": "Camí dels Reis, 18",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1646",
+    "name": "Eusebi Estada, 145",
+    "lines": [
+      "3",
+      "33"
+    ]
+  },
+  {
+    "id": "1647",
+    "name": "Eusebi Estada, 68",
+    "lines": [
+      "10",
+      "20",
+      "23"
+    ]
+  },
+  {
+    "id": "1648",
+    "name": "General Riera, 100",
+    "lines": [
+      "1",
+      "3",
+      "25"
+    ]
+  },
+  {
+    "id": "1649",
+    "name": "Carrer d'Aragó, 64",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1650",
+    "name": "Eusebi Estada, 112",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1651",
+    "name": "Eusebi Estada, 56",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1652",
+    "name": "General Riera, 53",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1653",
+    "name": "Carrer de Manacor, 115",
+    "lines": [
+      "4",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1654",
+    "name": "Carrer de Manacor, 133",
+    "lines": [
+      "4",
+      "15"
+    ]
+  },
+  {
+    "id": "1655",
+    "name": "Eusebi Estada, 67",
+    "lines": [
+      "4",
+      "15"
+    ]
+  },
+  {
+    "id": "1656",
+    "name": "Avinguda Alemanya, 14",
+    "lines": [
+      "1",
+      "5",
+      "25"
+    ]
+  },
+  {
+    "id": "1657",
+    "name": "General Riera, 113",
+    "lines": [
+      "8",
+      "15"
+    ]
+  },
+  {
+    "id": "1658",
+    "name": "Carrer d'Aragó, 98",
+    "lines": [
+      "1",
+      "14",
+      "20"
+    ]
+  },
+  {
+    "id": "1659",
+    "name": "Carrer d'Aragó, 95",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1660",
+    "name": "Carrer de Manacor, 133",
+    "lines": [
+      "1",
+      "20"
+    ]
+  },
+  {
+    "id": "1661",
+    "name": "Carrer d'Aragó, 7",
+    "lines": [
+      "1",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": "1662",
+    "name": "Carrer d'Aragó, 54",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1663",
+    "name": "Camí dels Reis, 107",
+    "lines": [
+      "5",
+      "20"
+    ]
+  },
+  {
+    "id": "1664",
+    "name": "Carrer de Manacor, 82",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1665",
+    "name": "Eusebi Estada, 107",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1666",
+    "name": "Eusebi Estada, 84",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1667",
+    "name": "General Riera, 23",
+    "lines": [
+      "3",
+      "7",
+      "15"
+    ]
+  },
+  {
+    "id": "1668",
+    "name": "Camí dels Reis, 76",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1669",
+    "name": "General Riera, 35",
+    "lines": [
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": "1670",
+    "name": "Carrer d'Aragó, 136",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1671",
+    "name": "Carrer d'Aragó, 60",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1672",
+    "name": "Eusebi Estada, 80",
+    "lines": [
+      "1",
+      "7",
+      "23"
+    ]
+  },
+  {
+    "id": "1673",
+    "name": "Carrer de Manacor, 97",
+    "lines": [
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1674",
+    "name": "Avinguda Alemanya, 91",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1675",
+    "name": "Carrer de Manacor, 86",
+    "lines": [
+      "4",
+      "5",
+      "23"
+    ]
+  },
+  {
+    "id": "1676",
+    "name": "Eusebi Estada, 132",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1677",
+    "name": "Avinguda Alemanya, 86",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1678",
+    "name": "Carrer de Manacor, 25",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1679",
+    "name": "Avinguda Alemanya, 22",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1680",
+    "name": "Carrer d'Aragó, 51",
+    "lines": [
+      "3",
+      "8",
+      "33"
+    ]
+  },
+  {
+    "id": "1681",
+    "name": "Camí dels Reis, 62",
+    "lines": [
+      "1",
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1682",
+    "name": "Carrer de Manacor, 122",
+    "lines": [
+      "7",
+      "33"
+    ]
+  },
+  {
+    "id": "1683",
+    "name": "Carrer d'Aragó, 150",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1684",
+    "name": "General Riera, 127",
+    "lines": [
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1685",
+    "name": "Camí dels Reis, 118",
+    "lines": [
+      "3",
+      "10"
+    ]
+  },
+  {
+    "id": "1686",
+    "name": "Camí dels Reis, 46",
+    "lines": [
+      "4",
+      "20",
+      "33"
+    ]
+  },
+  {
+    "id": "1687",
+    "name": "Carrer de Manacor, 4",
+    "lines": [
+      "3",
+      "10"
+    ]
+  },
+  {
+    "id": "1688",
+    "name": "Camí dels Reis, 149",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1689",
+    "name": "Camí dels Reis, 35",
+    "lines": [
+      "1",
+      "10"
+    ]
+  },
+  {
+    "id": "1690",
+    "name": "General Riera, 60",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1691",
+    "name": "Carrer de Manacor, 122",
+    "lines": [
+      "3",
+      "25"
+    ]
+  },
+  {
+    "id": "1692",
+    "name": "Avinguda Alemanya, 115",
+    "lines": [
+      "4",
+      "7",
+      "25"
+    ]
+  },
+  {
+    "id": "1693",
+    "name": "General Riera, 77",
+    "lines": [
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1694",
+    "name": "General Riera, 85",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1695",
+    "name": "Avinguda Alemanya, 98",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1696",
+    "name": "Avinguda Alemanya, 89",
+    "lines": [
+      "8",
+      "10",
+      "25"
+    ]
+  },
+  {
+    "id": "1697",
+    "name": "Avinguda Alemanya, 103",
+    "lines": [
+      "1",
+      "14",
+      "15"
+    ]
+  },
+  {
+    "id": "1698",
+    "name": "Avinguda Alemanya, 19",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1699",
+    "name": "General Riera, 85",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1700",
+    "name": "Camí dels Reis, 83",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1701",
+    "name": "Carrer de Manacor, 61",
+    "lines": [
+      "5",
+      "14"
+    ]
+  },
+  {
+    "id": "1702",
+    "name": "Camí dels Reis, 136",
+    "lines": [
+      "1",
+      "3",
+      "5"
+    ]
+  },
+  {
+    "id": "1703",
+    "name": "Eusebi Estada, 24",
+    "lines": [
+      "14",
+      "20"
+    ]
+  },
+  {
+    "id": "1704",
+    "name": "Carrer d'Aragó, 69",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1705",
+    "name": "Carrer de Manacor, 147",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1706",
+    "name": "Camí dels Reis, 42",
+    "lines": [
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1707",
+    "name": "Carrer d'Aragó, 65",
+    "lines": [
+      "3",
+      "4",
+      "10"
+    ]
+  },
+  {
+    "id": "1708",
+    "name": "Carrer de Manacor, 38",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1709",
+    "name": "Eusebi Estada, 116",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1710",
+    "name": "Carrer de Manacor, 103",
+    "lines": [
+      "5",
+      "23"
+    ]
+  },
+  {
+    "id": "1711",
+    "name": "Avinguda Alemanya, 43",
+    "lines": [
+      "10",
+      "20"
+    ]
+  },
+  {
+    "id": "1712",
+    "name": "General Riera, 147",
+    "lines": [
+      "4",
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1713",
+    "name": "Carrer d'Aragó, 8",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1714",
+    "name": "General Riera, 130",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1715",
+    "name": "Camí dels Reis, 19",
+    "lines": [
+      "3",
+      "8"
+    ]
+  },
+  {
+    "id": "1716",
+    "name": "Carrer de Manacor, 39",
+    "lines": [
+      "10",
+      "14",
+      "20"
+    ]
+  },
+  {
+    "id": "1717",
+    "name": "Avinguda Alemanya, 90",
+    "lines": [
+      "3"
+    ]
+  },
+  {
+    "id": "1718",
+    "name": "Carrer d'Aragó, 26",
+    "lines": [
+      "8",
+      "25"
+    ]
+  },
+  {
+    "id": "1719",
+    "name": "Carrer de Manacor, 77",
+    "lines": [
+      "5",
+      "20"
+    ]
+  },
+  {
+    "id": "1720",
+    "name": "Carrer d'Aragó, 42",
+    "lines": [
+      "3",
+      "7",
+      "33"
+    ]
+  },
+  {
+    "id": "1721",
+    "name": "Carrer de Manacor, 79",
+    "lines": [
+      "5",
+      "20"
+    ]
+  },
+  {
+    "id": "1722",
+    "name": "General Riera, 138",
+    "lines": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": "1723",
+    "name": "General Riera, 42",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1724",
+    "name": "General Riera, 52",
+    "lines": [
+      "5",
+      "14",
+      "25"
+    ]
+  },
+  {
+    "id": "1725",
+    "name": "Eusebi Estada, 26",
+    "lines": [
+      "3",
+      "10",
+      "23"
+    ]
+  },
+  {
+    "id": "1726",
+    "name": "Avinguda Alemanya, 133",
+    "lines": [
+      "14",
+      "33"
+    ]
+  },
+  {
+    "id": "1727",
+    "name": "General Riera, 134",
+    "lines": [
+      "1",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "id": "1728",
+    "name": "Carrer de Manacor, 59",
+    "lines": [
+      "4",
+      "33"
+    ]
+  },
+  {
+    "id": "1729",
+    "name": "Carrer d'Aragó, 144",
+    "lines": [
+      "1",
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": "1730",
+    "name": "Camí dels Reis, 21",
+    "lines": [
+      "1",
+      "25"
+    ]
+  },
+  {
+    "id": "1731",
+    "name": "Camí dels Reis, 135",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1732",
+    "name": "Eusebi Estada, 147",
+    "lines": [
+      "3",
+      "8"
+    ]
+  },
+  {
+    "id": "1733",
+    "name": "Carrer de Manacor, 50",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1734",
+    "name": "Eusebi Estada, 85",
+    "lines": [
+      "5",
+      "7",
+      "33"
+    ]
+  },
+  {
+    "id": "1735",
+    "name": "General Riera, 99",
+    "lines": [
+      "3",
+      "8"
+    ]
+  },
+  {
+    "id": "1736",
+    "name": "General Riera, 46",
+    "lines": [
+      "1"
+    ]
+  },
+  {
+    "id": "1737",
+    "name": "Carrer de Manacor, 16",
+    "lines": [
+      "4",
+      "33"
+    ]
+  },
+  {
+    "id": "1738",
+    "name": "Carrer de Manacor, 132",
+    "lines": [
+      "14",
+      "20"
+    ]
+  },
+  {
+    "id": "1739",
+    "name": "Camí dels Reis, 27",
+    "lines": [
+      "20",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1740",
+    "name": "Carrer de Manacor, 27",
+    "lines": [
+      "3",
+      "8"
+    ]
+  },
+  {
+    "id": "1741",
+    "name": "Carrer de Manacor, 34",
+    "lines": [
+      "1",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": "1742",
+    "name": "Carrer d'Aragó, 66",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1743",
+    "name": "Avinguda Alemanya, 55",
+    "lines": [
+      "4",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1744",
+    "name": "Eusebi Estada, 31",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1745",
+    "name": "Carrer de Manacor, 72",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1746",
+    "name": "Carrer de Manacor, 90",
+    "lines": [
+      "3",
+      "14"
+    ]
+  },
+  {
+    "id": "1747",
+    "name": "Carrer de Manacor, 98",
+    "lines": [
+      "3",
+      "15"
+    ]
+  },
+  {
+    "id": "1748",
+    "name": "Carrer de Manacor, 26",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1749",
+    "name": "Camí dels Reis, 64",
+    "lines": [
+      "20"
+    ]
+  },
+  {
+    "id": "1750",
+    "name": "Avinguda Alemanya, 32",
+    "lines": [
+      "7",
+      "14"
+    ]
+  },
+  {
+    "id": "1751",
+    "name": "Camí dels Reis, 87",
+    "lines": [
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": "1752",
+    "name": "Carrer de Manacor, 53",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1753",
+    "name": "Carrer d'Aragó, 17",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1754",
+    "name": "General Riera, 136",
+    "lines": [
+      "23",
+      "33"
+    ]
+  },
+  {
+    "id": "1755",
+    "name": "Carrer d'Aragó, 74",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1756",
+    "name": "Carrer de Manacor, 150",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1757",
+    "name": "Camí dels Reis, 57",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1758",
+    "name": "Carrer d'Aragó, 108",
+    "lines": [
+      "8",
+      "20",
+      "23"
+    ]
+  },
+  {
+    "id": "1759",
+    "name": "Carrer d'Aragó, 37",
+    "lines": [
+      "8",
+      "25",
+      "33"
+    ]
+  },
+  {
+    "id": "1760",
+    "name": "Camí dels Reis, 73",
+    "lines": [
+      "1",
+      "15"
+    ]
+  },
+  {
+    "id": "1761",
+    "name": "General Riera, 78",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1762",
+    "name": "Camí dels Reis, 124",
+    "lines": [
+      "4",
+      "8"
+    ]
+  },
+  {
+    "id": "1763",
+    "name": "Carrer d'Aragó, 121",
+    "lines": [
+      "3",
+      "25"
+    ]
+  },
+  {
+    "id": "1764",
+    "name": "Carrer de Manacor, 41",
+    "lines": [
+      "5",
+      "10"
+    ]
+  },
+  {
+    "id": "1765",
+    "name": "Carrer de Manacor, 85",
+    "lines": [
+      "4"
+    ]
+  },
+  {
+    "id": "1766",
+    "name": "Eusebi Estada, 21",
+    "lines": [
+      "5",
+      "33"
+    ]
+  },
+  {
+    "id": "1767",
+    "name": "Camí dels Reis, 96",
+    "lines": [
+      "15",
+      "23"
+    ]
+  },
+  {
+    "id": "1768",
+    "name": "General Riera, 50",
+    "lines": [
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1769",
+    "name": "Carrer d'Aragó, 81",
+    "lines": [
+      "7"
+    ]
+  },
+  {
+    "id": "1770",
+    "name": "Avinguda Alemanya, 19",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1771",
+    "name": "Carrer d'Aragó, 115",
+    "lines": [
+      "5",
+      "15"
+    ]
+  },
+  {
+    "id": "1772",
+    "name": "Carrer de Manacor, 106",
+    "lines": [
+      "20",
+      "23",
+      "25"
+    ]
+  },
+  {
+    "id": "1773",
+    "name": "Carrer de Manacor, 17",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1774",
+    "name": "Camí dels Reis, 92",
+    "lines": [
+      "8",
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1775",
+    "name": "Camí dels Reis, 133",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1776",
+    "name": "Carrer de Manacor, 128",
+    "lines": [
+      "7",
+      "15"
+    ]
+  },
+  {
+    "id": "1777",
+    "name": "Carrer de Manacor, 11",
+    "lines": [
+      "33"
+    ]
+  },
+  {
+    "id": "1778",
+    "name": "Avinguda Alemanya, 83",
+    "lines": [
+      "3",
+      "15",
+      "25"
+    ]
+  },
+  {
+    "id": "1779",
+    "name": "Avinguda Alemanya, 145",
+    "lines": [
+      "10",
+      "20",
+      "23"
+    ]
+  },
+  {
+    "id": "1780",
+    "name": "Avinguda Alemanya, 123",
+    "lines": [
+      "3",
+      "5",
+      "15"
+    ]
+  },
+  {
+    "id": "1781",
+    "name": "Carrer d'Aragó, 77",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1782",
+    "name": "Camí dels Reis, 134",
+    "lines": [
+      "7",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "id": "1783",
+    "name": "Carrer de Manacor, 17",
+    "lines": [
+      "7",
+      "14",
+      "23"
+    ]
+  },
+  {
+    "id": "1784",
+    "name": "Carrer d'Aragó, 37",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1785",
+    "name": "General Riera, 95",
+    "lines": [
+      "1",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": "1786",
+    "name": "Eusebi Estada, 60",
+    "lines": [
+      "7",
+      "10"
+    ]
+  },
+  {
+    "id": "1787",
+    "name": "General Riera, 140",
+    "lines": [
+      "23"
+    ]
+  },
+  {
+    "id": "1788",
+    "name": "Avinguda Alemanya, 101",
+    "lines": [
+      "10"
+    ]
+  },
+  {
+    "id": "1789",
+    "name": "Avinguda Alemanya, 43",
+    "lines": [
+      "5"
+    ]
+  },
+  {
+    "id": "1790",
+    "name": "Eusebi Estada, 41",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1791",
+    "name": "General Riera, 117",
+    "lines": [
+      "4",
+      "8",
+      "33"
+    ]
+  },
+  {
+    "id": "1792",
+    "name": "General Riera, 42",
+    "lines": [
+      "5",
+      "7"
+    ]
+  },
+  {
+    "id": "1793",
+    "name": "Carrer de Manacor, 131",
+    "lines": [
+      "15"
+    ]
+  },
+  {
+    "id": "1794",
+    "name": "Carrer d'Aragó, 59",
+    "lines": [
+      "3",
+      "33"
+    ]
+  },
+  {
+    "id": "1795",
+    "name": "Camí dels Reis, 129",
+    "lines": [
+      "8"
+    ]
+  },
+  {
+    "id": "1796",
+    "name": "General Riera, 78",
+    "lines": [
+      "14"
+    ]
+  },
+  {
+    "id": "1797",
+    "name": "Avinguda Alemanya, 33",
+    "lines": [
+      "10",
+      "14"
+    ]
+  },
+  {
+    "id": "1798",
+    "name": "Eusebi Estada, 3",
+    "lines": [
+      "25"
+    ]
+  },
+  {
+    "id": "1799",
+    "name": "Carrer de Manacor, 117",
+    "lines": [
+      "10"
+    ]
+  }
+]

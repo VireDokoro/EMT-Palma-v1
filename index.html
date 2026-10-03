@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>EMT Palma PRO</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Iconos Phosphor Icons para diseño ultra minimalista -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</head>
+<body>
+    <header class="app-header">
+        <div class="logo">
+            <i class="ph ph-bus"></i>
+            <span>EMT Palma <span class="pro-badge">PRO</span></span>
+        </div>
+        <div class="status-indicator">
+            <span class="pulse"></span> En vivo
+        </div>
+    </header>
+
+    <main>
+        <div class="search-container">
+            <div class="search-box">
+                <i class="ph ph-magnifying-glass"></i>
+                <input type="text" id="searchInput" placeholder="Buscar parada (ej: 400), línea o calle..." autocomplete="off">
+                <button id="clearSearch"><i class="ph-bold ph-x"></i></button>
+            </div>
+            <div id="searchResults" class="search-results hidden"></div>
+        </div>
+
+        <div id="realTimeBoard" class="real-time-board hidden">
+            <div class="board-header">
+                <div class="stop-info">
+                    <h2 id="stopNameDisplay">--</h2>
+                    <span class="stop-id">Parada <span id="stopIdDisplay">--</span></span>
+                </div>
+                <button class="favorite-btn" id="favBtn"><i class="ph ph-heart"></i></button>
+            </div>
+            
+            <div class="refresh-countdown">
+                Actualizando en <span id="countdownTimer">15</span>s...
+            </div>
+
+            <ul id="arrivalsList" class="arrivals-list">
+                <!-- Los resultados en vivo irán aquí -->
+            </ul>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
